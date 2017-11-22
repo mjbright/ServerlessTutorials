@@ -1,5 +1,4 @@
 # ServerlessTutorials
 
-This repo is a place holder for future Serverless Tutorials to be held in various conferences in 2018
-
+This repo is a place holder for the DevConf.cz 2018 Serverless Tutorial (Brno, CZ, Jan 2018)
 
